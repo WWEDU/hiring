@@ -21,7 +21,7 @@
   * A Mac and Linux World
   * A digital world
 
-## You can work remotely using
+## You can work remotely, using ...
 
   * All kinds of chat-systems
   * Screen-sharing
