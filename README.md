@@ -1,7 +1,7 @@
 World Wide Education, WWEDU GmbH is hiring
 ==========================================
 
-Here we setup a repository to be used by attendees.
+Here we set up a repository to be used by attendees.
 
 *Not opened yet.*
 
